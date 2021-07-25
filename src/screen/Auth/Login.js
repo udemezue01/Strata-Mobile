@@ -8,7 +8,7 @@ const Login = () => {
     <View style={tailwind('h-full bg-gray-50 flex justify-center items-center')}>
 
 
-      <Text style={tailwind('text-blue-600 font-body')}>Login screen </Text>
+      <Text style={tailwind('text-blue-600 tracking-wider')}>Login screen </Text>
 
 
 

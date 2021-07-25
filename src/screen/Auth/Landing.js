@@ -9,7 +9,7 @@ const Landing = () => {
 
 
 
-      <Text style={tailwind('text-blue-600 font-body')}> The Landing screen</Text>
+      <Text style={tailwind('text-blue-600')}> The Landing screen</Text>
 
      
 

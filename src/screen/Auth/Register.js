@@ -8,7 +8,7 @@ const Register = () => {
     <View style={tailwind('h-full bg-gray-50 flex justify-center items-center')}>
 
 
-      <Text style={tailwind('text-blue-600 font-body mt-24')}> The register screen </Text> 
+      <Text style={tailwind('text-blue-600 mt-24')}> The register screen </Text> 
     
     </View>
   )
