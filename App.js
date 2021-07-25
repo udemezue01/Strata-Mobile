@@ -12,8 +12,7 @@ import Landing from './src/screen/Auth/Landing'
 import tailwind from 'tailwind-rn';
 
 // React navigation import
-
-
+import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
